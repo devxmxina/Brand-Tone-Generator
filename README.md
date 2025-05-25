@@ -15,7 +15,7 @@ A lightweight AI-powered assistant that generates creative, tone-specific brand 
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/your-username/brand-tone-generator.git
+git clone https://github.com/devxmxina/brand-tone-generator.git
 
 cd brand-tone-generator
 ```
