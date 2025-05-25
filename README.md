@@ -10,16 +10,6 @@ A lightweight AI-powered assistant that generates creative, tone-specific brand 
 - Powered by Gemini 2.0 Flash API  
 - Simple Streamlit UI for quick prototyping
 
-## Project Structure
-
-brand-tone-generator/
-├── app.py                # Streamlit UI
-├── generator.py          # Gemini content generation logic
-├── prompts.py            # Tone prompt templates
-├── LLM_Brand_Tone_Generator.ipynb  # Jupyter project demo
-├── requirements.txt
-└── README.md
-
 ## Installation
 
 1. Clone the repository:
